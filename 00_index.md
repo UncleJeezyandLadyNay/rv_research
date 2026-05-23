@@ -10,6 +10,7 @@
 |---|---|---|
 | *(root)* | All brands | Brand comparison + master index |
 | [Alliance/](Alliance/) | Alliance RV Delta | 281BH (bunkhouse) · 284RK (rear kitchen) |
+| [Ember RV/](Ember%20RV/) | Ember RV | Overland 221MSL · E-Series 26ETS · Touring Edition 2500RDL |
 | [Grand Design/](Grand%20Design/) | Grand Design Imagine | 2970RL (rear living) · 2810BH (bunkhouse, 2 slides) · 2800BH (bunkhouse, 1 slide) |
 | [Outdoors RV/](Outdoors%20RV/) | Outdoors RV Titanium | BackCountry 26RPS · BackCountry 28DBS · Blackstone 280RKS · Timber Ridge 28BKS |
 
@@ -22,6 +23,42 @@
 | [README.md](README.md) | Full repo landing page — brand comparison, critical facts, quick navigation |
 | [00_index.md](00_index.md) | This file — master index of all content |
 | [01 - Alliance Delta vs Outdoors RV BackCountry Comparison](01_comparison_alliance_delta_vs_outdoors_rv_backcountry.md) | Full head-to-head: specs, community sentiment, quality issues, bottom line verdict |
+
+---
+
+## Ember RV
+
+> Goshen, Indiana-built premium travel trailer. Azdel walls across the full lineup. EmberTrack™ modular bunk/cargo system is the brand's signature innovation. Smaller dealer network; owner community lives in Facebook groups. 2-year base warranty beats Alliance and GD's 1-year. Warranty response delays documented.
+
+| File | Description |
+|---|---|
+| [README.md](Ember%20RV/README.md) | Ember hub — all 3 floor plans, 5 factory defects, warranty, EmberTrack explained |
+| [01 - Deep Dive: 221MSL, 26ETS, 2500RDL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) | Floor plan breakdowns, EmberTrack system deep dive, owner sentiment, brand comparison |
+| [02 - PDI Checklist](Ember%20RV/02_pdi_checklist.md) | Pre-delivery inspection — 🔴 CRITICAL defects including GFCI wiring, PEX leaks, EmberTrack anchors |
+| [03 - PDI Walkthrough Script](Ember%20RV/03_pdi_walkthrough_script.md) | Word-for-word dealership script, EmberLink app setup, Ground Control TT3 demo (2500RDL) |
+| [04 - Seasonal Maintenance Schedule](Ember%20RV/04_seasonal_maintenance_schedule.md) | Tufflex PVC roof care, EmberTrack hardware inspect, Ground Control TT3 calibration |
+| [05 - Product List](Ember%20RV/05_product_list.md) | Ember-specific products, sourcing, ~$160–193/year |
+
+### Ember RV Quick Reference
+
+**5 Documented Factory Defects (verify at PDI):**
+1. **GFCI circuit miswired** — run two appliances simultaneously; verify no trip, verify correct outlet mapping
+2. **PEX water connections loose** — slow city water connect, head under bathroom vanity, feel every fitting
+3. **Stabilizer leg wiring** — all legs deploy electrically, push-test each corner
+4. **Slide-out floor swelling** — press edge seam all around extended slide, look for bubbling (26ETS primary)
+5. **EmberTrack installation errors** — push hard on every bracket, climb every bunk, test shower direction
+
+| | Overland 221MSL | E-Series 26ETS | Touring 2500RDL |
+|---|---|---|---|
+| Best for | Half-ton, modularity, off-grid | Value + Azdel/Tufflex build | Premium all-rounder, auto-leveling |
+| Layout | Murphy bed + EmberTrack | Queen bed + EmberTrack | Rear U-dinette + front bedroom |
+| Dry weight | ~5,850 lbs | ~6,100 lbs | ~6,500–7,000 lbs* |
+| GVWR | 7,550 lbs | ~9,000 lbs* | TBD* |
+| Suspension | Standard leaf spring | Standard leaf spring | CURT Touring Coil |
+| Auto-leveling | No | No | Ground Control TT3 |
+| MSRP (2026) | ~$82,128 | ~$53,659 | ~$68K–$75K* |
+
+*Estimated — 2500RDL is newly introduced; verify with dealer*
 
 ---
 
@@ -132,20 +169,22 @@
 
 ## Brand Comparison Cheat Sheet
 
-| | Grand Design Imagine | Alliance RV Delta | Outdoors RV Titanium |
-|---|---|---|---|
-| Build location | Middlebury, Indiana | Elkhart, Indiana | La Grande, Oregon |
-| Construction | Aluminum frame, OSB sub, TPO roof | Azdel composite, laminated | Hardwood, plywood sub/roof, welded |
-| Chassis | Norco/BAL steel | Standard travel trailer | Custom 8" cambered HD off-road |
-| Suspension | Standard Dexter | Standard | MorRyde AllTrek CRE4000 + KYB shocks |
-| Four seasons | Basic | Basic (enclosed underbelly) | Genuine (triple insulation, heated tanks) |
-| Off-road | No | No | Yes |
-| Tow vehicle | 3/4-ton (10,195 GVWR) | Half-ton capable | 3/4-ton minimum |
-| Factory QC | Mixed — same Elkhart issues | Recurring workmanship complaints | Minor component errors; build praised |
-| Warranty | 1-3-5 transferable ✅ | Water damage exclusion trap ⚠️ | Standard — fewer disputes documented |
-| Price range | ~$62K–$70K | ~$50K–$75K | ~$70K–$100K+ |
-| Annual maintenance | ~$155–180 | ~$175 | ~$235–265 |
-| Best for | Value, resale, campground use | Lightweight luxury, campground use | Off-road, four-season, backcountry |
+| | Ember RV | Grand Design Imagine | Alliance RV Delta | Outdoors RV Titanium |
+|---|---|---|---|---|
+| Build location | Goshen, Indiana | Middlebury, Indiana | Elkhart, Indiana | La Grande, Oregon |
+| Construction | Azdel walls, Tufflex PVC roof | Aluminum frame, OSB sub, TPO roof | Azdel composite, laminated | Hardwood, plywood sub/roof, welded |
+| Chassis | Aluminum frame | Norco/BAL steel | Standard travel trailer | Custom 8" cambered HD off-road |
+| Suspension | Leaf / CURT Coil (Touring) | Standard Dexter | Standard | MorRyde AllTrek CRE4000 + KYB shocks |
+| Signature feature | EmberTrack™ modular system | None | Luxury amenities | 4-season off-road |
+| Auto-leveling | Touring Edition only | No | No | Standard (Titanium) |
+| Four seasons | No | Basic | Basic (enclosed underbelly) | Genuine (triple insulation, heated tanks) |
+| Off-road | No | No | No | Yes |
+| Tow vehicle | Half-ton (Overland/E-Series) | 3/4-ton (10,195 GVWR) | Half-ton capable | 3/4-ton minimum |
+| Factory QC | Inconsistent — newer brand | Mixed — same Elkhart issues | Recurring workmanship complaints | Minor component errors; build praised |
+| Warranty | 2-yr base ✅ | 1-3-5 transferable ✅ | 1-yr, exclusion trap ⚠️ | Standard — fewer disputes |
+| Price range | ~$54K–$82K+ | ~$62K–$70K | ~$50K–$75K | ~$70K–$100K+ |
+| Annual maintenance | ~$160–193 | ~$155–180 | ~$175 | ~$235–265 |
+| Best for | Modularity, Azdel build, half-ton | Value, resale, campground use | Lightweight luxury, campground use | Off-road, four-season, backcountry |
 
 ---
 
@@ -153,6 +192,9 @@
 
 | Resource | Brand | Use |
 |---|---|---|
+| [Ember RV Fan Club](https://www.facebook.com/groups/emberrvfanclub/) | Ember RV | Primary Ember owner community — Facebook group |
+| [Ember RV Discussion Group](https://www.facebook.com/groups/2236868936470330/) | Ember RV | Secondary Facebook owner group |
+| [RV Insider — Ember](https://www.rvinsider.com/Ember-Rv-RV-Reviews?make=Ember+Rv) | Ember RV | Aggregated owner ratings |
 | [MyGrandRV.com](https://www.mygrandrv.com/) | Grand Design | Best Grand Design owner forum — active, searchable |
 | [iRV2 Grand Design Forum](https://www.irv2.com/forums/f50/) | Grand Design | Broad community GD threads |
 | [GDRVowners.com](https://www.gdrvowners.com/) | Grand Design | Secondary Grand Design owner community |

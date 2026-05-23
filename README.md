@@ -1,18 +1,18 @@
 # 🏕️ RV Research Hub
 
-> **Independent buyer's research for two premium travel trailer lines** — built from real owner forums, documented factory defects, and long-term ownership data. Not dealer content. Not manufacturer marketing. What actual owners say, sourced and cited.
+> **Independent buyer's research for four travel trailer brands** — built from real owner forums, documented factory defects, and long-term ownership data. Not dealer content. Not manufacturer marketing. What actual owners say, sourced and cited.
 
 ---
 
 ## What's in Here
 
-| | Alliance RV Delta | Grand Design Imagine | Outdoors RV Titanium |
-|---|---|---|---|
-| **Models covered** | [281BH](Alliance/02_deep_dive_281bh_284rk.md) · [284RK](Alliance/02_deep_dive_281bh_284rk.md) | [2970RL](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2810BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2800BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) | [BackCountry 26RPS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [BackCountry 28DBS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Blackstone 280RKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Timber Ridge 28BKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) |
-| **Build location** | Elkhart, Indiana | Middlebury, Indiana | La Grande, Oregon |
-| **Tow requirement** | Half-ton capable | 3/4-ton (all plans) | 3/4-ton minimum |
-| **Price range** | ~$50K–$75K | ~$62K–$70K | ~$70K–$100K+ |
-| **Full research folder** | [→ Alliance/](Alliance/) | [→ Grand Design/](Grand%20Design/) | [→ Outdoors RV/](Outdoors%20RV/) |
+| | Alliance RV Delta | Ember RV | Grand Design Imagine | Outdoors RV Titanium |
+|---|---|---|---|---|
+| **Models covered** | [281BH](Alliance/02_deep_dive_281bh_284rk.md) · [284RK](Alliance/02_deep_dive_281bh_284rk.md) | [Overland 221MSL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [E-Series 26ETS](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [Touring 2500RDL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) | [2970RL](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2810BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2800BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) | [BackCountry 26RPS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [BackCountry 28DBS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Blackstone 280RKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Timber Ridge 28BKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) |
+| **Build location** | Elkhart, Indiana | Goshen, Indiana | Middlebury, Indiana | La Grande, Oregon |
+| **Tow requirement** | Half-ton capable | Half-ton (Overland/E-Series) | 3/4-ton (all plans) | 3/4-ton minimum |
+| **Price range** | ~$50K–$75K | ~$54K–$82K+ | ~$62K–$70K | ~$70K–$100K+ |
+| **Full research folder** | [→ Alliance/](Alliance/) | [→ Ember RV/](Ember%20RV/) | [→ Grand Design/](Grand%20Design/) | [→ Outdoors RV/](Outdoors%20RV/) |
 
 Each brand folder contains: deep-dive floor plan breakdowns · PDI checklist with documented factory defects · word-for-word dealership walkthrough script · seasonal maintenance schedule · product list with sourcing.
 
@@ -26,6 +26,13 @@ Each brand folder contains: deep-dive floor plan breakdowns · PDI checklist wit
 - You want the most interior amenities and storage per pound
 - Saving $15K–$25K vs. ORV fits your budget
 - You're willing to do a thorough PDI and potentially a shakedown period
+
+### Choose Ember RV if...
+- You want Azdel composite walls and a premium roof (Tufflex PVC) at or below Grand Design pricing (26ETS at ~$54K)
+- The EmberTrack modular rear space — converting between bunks, desk, and cargo hauling — matches your actual use
+- You have a half-ton truck and want more than basic Elkhart construction without the Outdoors RV price tag
+- You're buying the Touring Edition 2500RDL for coil suspension, Ground Control auto-leveling, and app-controlled setup convenience
+- You understand you're buying into a newer brand with a smaller dealer network and Facebook-group-only owner community
 
 ### Choose Grand Design Imagine if...
 - Your tow vehicle is a 3/4-ton or 1-ton and you want the best price in that weight class
@@ -69,6 +76,22 @@ These are **documented real incidents** from the [Alliance RV Owners Forum](http
 
 ---
 
+### ⚠️ Ember RV — Factory Defects to Verify at PDI
+
+Documented across [RVForums.com](https://rvforums.com/threads/ember-brand-travel-trailers.14026/), [iRV2](https://www.irv2.com/), and the [Ember RV Fan Club](https://www.facebook.com/groups/emberrvfanclub/) Facebook group:
+
+| # | Defect | Test |
+|---|---|---|
+| 🔴 1 | **GFCI circuit miswired** — 20A GFCI breaker trips immediately when anything is plugged in | Run two appliances simultaneously; verify no trip; trip and reset master GFCI, verify correct outlets respond |
+| 🔴 2 | **PEX water connection leaks** — braided PVC connections at bathroom faucet lines loosen in transit | Connect city water slowly; get your head under the bathroom vanity and feel every fitting under pressure |
+| 🔴 3 | **Stabilizer leg wiring** — crimp connectors not fully stripped; leg won't deploy electrically | Deploy all legs, push down on each corner to confirm they bear weight |
+| 🔴 4 | **Slide-out floor water intrusion** — painted plywood slide floor swelled on 26ETS units | Inspect slide floor edges for bubbling or soft spots; press the full edge seam |
+| 🔴 5 | **EmberTrack installation errors** — brackets misaligned, shower fixtures installed upside-down, cabinet doors misaligned | Push hard on every mounted EmberTrack component; test shower direction; climb every configured bunk |
+
+→ [Full Ember PDI Checklist](Ember%20RV/02_pdi_checklist.md) | [PDI Walkthrough Script](Ember%20RV/03_pdi_walkthrough_script.md)
+
+---
+
 ### ⚠️ Grand Design Imagine — Factory Defects to Verify at PDI
 
 Documented across [MyGrandRV.com](https://www.mygrandrv.com/), [iRV2](https://www.irv2.com/forums/f50/), and [GDRVowners.com](https://www.gdrvowners.com/):
@@ -102,6 +125,17 @@ Documented across ORV owner communities on [iRV2](https://www.irv2.com/forums/f2
 ---
 
 ## Floor Plans at a Glance
+
+### Ember RV
+
+| Floor Plan | Series | Layout | Dry Weight | GVWR | Slides | Sleeps | MSRP (2026) |
+|---|---|---|---|---|---|---|---|
+| **[Overland 221MSL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md)** | Overland | Murphy bed + EmberTrack rear | ~5,850 lbs | 7,550 lbs | 1 | 6 | ~$82,128 |
+| **[E-Series 26ETS](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md)** | E-Series | Queen bed + EmberTrack rear | ~6,100 lbs | ~9,000 lbs* | 1 | 4–6 | ~$53,659 |
+| **[Touring 2500RDL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md)** | Touring | Rear U-dinette + front bedroom | ~6,500–7,000 lbs* | TBD* | 1 | 4–6 | ~$68K–$75K* |
+
+> *Estimated — 2500RDL is newly introduced. Verify all specs with dealer before purchase.*
+> **Note on the 221MSL price:** At ~$82K for a 26-foot trailer, the Overland is priced against Outdoors RV Titanium while delivering a different product — lighter, half-ton-towable, modular. The E-Series 26ETS at ~$54K is the better value entry with the same Azdel/Tufflex construction.
 
 ### Grand Design Imagine
 
@@ -137,19 +171,19 @@ Documented across ORV owner communities on [iRV2](https://www.irv2.com/forums/f2
 
 ## Annual Maintenance Cost Comparison
 
-| | Grand Design Imagine | Alliance RV Delta | Outdoors RV Titanium |
-|---|---|---|---|
-| Sealants | ~$50 | ~$50 | ~$60 |
-| Rubber roof care | ~$30 | N/A (Azdel walls) | N/A (fiberglass) |
-| Fiberglass care | N/A | N/A | ~$50 |
-| Slide seal conditioner | ~$20 | ~$20 | ~$20 |
-| Generator service | N/A | N/A | ~$40–60 |
-| Suspension grease | N/A | N/A | ~$15 |
-| Antifreeze | ~$25 | ~$25 | ~$25 |
-| Miscellaneous | ~$25 | ~$30 | ~$30 |
-| **Total recurring annual** | **~$155–180** | **~$175** | **~$235–265** |
+| | Ember RV | Grand Design Imagine | Alliance RV Delta | Outdoors RV Titanium |
+|---|---|---|---|---|
+| Sealants | ~$55 | ~$50 | ~$50 | ~$60 |
+| Roof care | ~$30 | ~$30 | N/A | N/A (fiberglass) |
+| Fiberglass care | N/A | N/A | N/A | ~$50 |
+| Slide seal conditioner | ~$20 | ~$20 | ~$20 | ~$20 |
+| Generator service | N/A | N/A | N/A | ~$40–60 |
+| Suspension grease | N/A | N/A | N/A | ~$15 |
+| Antifreeze | ~$25 | ~$25 | ~$25 | ~$25 |
+| Miscellaneous | ~$30 | ~$25 | ~$30 | ~$30 |
+| **Total recurring annual** | **~$160–193** | **~$155–180** | **~$175** | **~$235–265** |
 
-→ [Grand Design Product List](Grand%20Design/05_product_list.md) | [Alliance Product List](Alliance/06_product_list.md) | [Outdoors RV Product List](Outdoors%20RV/05_product_list.md)
+→ [Ember Product List](Ember%20RV/05_product_list.md) | [Grand Design Product List](Grand%20Design/05_product_list.md) | [Alliance Product List](Alliance/06_product_list.md) | [Outdoors RV Product List](Outdoors%20RV/05_product_list.md)
 
 ---
 
@@ -196,6 +230,14 @@ rv_research/
 │   ├── 04_pdi_walkthrough_script.md
 │   ├── 05_seasonal_maintenance_schedule.md
 │   └── 06_product_list.md
+│
+├── Ember RV/
+│   ├── README.md                                ← Ember RV hub
+│   ├── 01_deep_dive_221msl_26ets_2500rdl.md
+│   ├── 02_pdi_checklist.md
+│   ├── 03_pdi_walkthrough_script.md
+│   ├── 04_seasonal_maintenance_schedule.md
+│   └── 05_product_list.md
 │
 ├── Grand Design/
 │   ├── README.md                                ← Grand Design hub
