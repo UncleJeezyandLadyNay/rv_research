@@ -1,18 +1,18 @@
 # 🏕️ RV Research Hub
 
-> **Independent buyer's research for four travel trailer brands** — built from real owner forums, documented factory defects, and long-term ownership data. Not dealer content. Not manufacturer marketing. What actual owners say, sourced and cited.
+> **Independent buyer's research for five travel trailer brands** — built from real owner forums, documented factory defects, and long-term ownership data. Not dealer content. Not manufacturer marketing. What actual owners say, sourced and cited.
 
 ---
 
 ## What's in Here
 
-| | Alliance RV Delta | Ember RV | Grand Design Imagine | Outdoors RV Titanium |
-|---|---|---|---|---|
-| **Models covered** | [281BH](Alliance/02_deep_dive_281bh_284rk.md) · [284RK](Alliance/02_deep_dive_281bh_284rk.md) | [Overland 221MSL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [E-Series 26ETS](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [Touring 2500RDL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) | [2970RL](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2810BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2800BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) | [BackCountry 26RPS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [BackCountry 28DBS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Blackstone 280RKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Timber Ridge 28BKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) |
-| **Build location** | Elkhart, Indiana | Goshen, Indiana | Middlebury, Indiana | La Grande, Oregon |
-| **Tow requirement** | Half-ton capable | Half-ton (Overland/E-Series) | 3/4-ton (all plans) | 3/4-ton minimum |
-| **Price range** | ~$50K–$75K | ~$54K–$82K+ | ~$62K–$70K | ~$70K–$100K+ |
-| **Full research folder** | [→ Alliance/](Alliance/) | [→ Ember RV/](Ember%20RV/) | [→ Grand Design/](Grand%20Design/) | [→ Outdoors RV/](Outdoors%20RV/) |
+| | Alliance RV Delta | Ember RV | Grand Design Imagine | Keystone RV | Outdoors RV Titanium |
+|---|---|---|---|---|---|
+| **Models covered** | [281BH](Alliance/02_deep_dive_281bh_284rk.md) · [284RK](Alliance/02_deep_dive_281bh_284rk.md) | [Overland 221MSL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [E-Series 26ETS](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [Touring 2500RDL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) | [2970RL](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2810BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2800BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) | [Cougar WE 28BHWE](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) · [Cougar HT 28BHS](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) · [Cougar HT 29RLP](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) · [Outback 252RD](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) | [BackCountry 26RPS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [BackCountry 28DBS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Blackstone 280RKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Timber Ridge 28BKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) |
+| **Build location** | Elkhart, Indiana | Goshen, Indiana | Middlebury, Indiana | Goshen, Indiana | La Grande, Oregon |
+| **Tow requirement** | Half-ton capable | Half-ton (Overland/E-Series) | 3/4-ton (all plans) | Half-ton (all 4 plans) | 3/4-ton minimum |
+| **Price range** | ~$50K–$75K | ~$54K–$82K+ | ~$62K–$70K | ~$56K–$62K | ~$70K–$100K+ |
+| **Full research folder** | [→ Alliance/](Alliance/) | [→ Ember RV/](Ember%20RV/) | [→ Grand Design/](Grand%20Design/) | [→ Keystone RV/](Keystone%20RV/) | [→ Outdoors RV/](Outdoors%20RV/) |
 
 Each brand folder contains: deep-dive floor plan breakdowns · PDI checklist with documented factory defects · word-for-word dealership walkthrough script · seasonal maintenance schedule · product list with sourcing.
 
@@ -26,6 +26,13 @@ Each brand folder contains: deep-dive floor plan breakdowns · PDI checklist wit
 - You want the most interior amenities and storage per pound
 - Saving $15K–$25K vs. ORV fits your budget
 - You're willing to do a thorough PDI and potentially a shakedown period
+
+### Choose Keystone RV if...
+- You want the widest dealer network in the industry — warranty service a short drive away almost anywhere in North America
+- You're a family buyer on a tight budget who wants half-ton towability and sleeps 9 for under $58K (28BHS or 28BHWE)
+- The Outback 252RD's standard SolarFlex 220W solar and BAL Norco 5.1 stabilization genuinely match your use case
+- The Western Elevation 28BHWE's 80-gallon fresh water and ABS suspension are specifically what your camping style needs
+- You understand the PDI game: thorough inspection before signing, then document everything in warranty
 
 ### Choose Ember RV if...
 - You want Azdel composite walls and a premium roof (Tufflex PVC) at or below Grand Design pricing (26ETS at ~$54K)
@@ -73,6 +80,22 @@ These are **documented real incidents** from the [Alliance RV Owners Forum](http
 **The Alliance warranty trap:** Alliance excludes water damage from *"inadequate seal maintenance"* — even when a factory defect caused the original breach. Photograph every exterior seal before leaving the lot. Maintain a dated inspection log with photos twice per year.
 
 → [Full Alliance PDI Checklist](Alliance/03_pdi_checklist_281bh_284rk.md) | [PDI Walkthrough Script](Alliance/04_pdi_walkthrough_script.md)
+
+---
+
+### ⚠️ Keystone RV — Factory Defects to Verify at PDI
+
+Documented across [keystoneforums.com](https://www.keystoneforums.com/), [iRV2](https://www.irv2.com/), and [RV Reports](https://rvreports.ai/keystone-rv-complaints-a-shoppers-guide-to-leaks-frame-flex-slide-issues-and-dealer-delays/):
+
+| # | Defect | Test |
+|---|---|---|
+| 🔴 1 | **Water heater not wired at factory** — 120V element connection not made; cold water only | Turn on electric mode 30 min before PDI; hot water must be hot at kitchen faucet before signing |
+| 🔴 2 | **Tires under-inflated 15+ PSI at delivery** — documented across multiple PDI reports | Check every tire cold with your gauge before the unit moves — inflate to spec |
+| 🔴 3 | **Shower pan unsupported / flexing** — installed without adequate sub-support; cracks over time | Step in, bounce — zero flex means adequate support; any flex = require reinforcement before signing |
+| 🔴 4 | **Crossed drain plumbing** — gray and black drain lines crossed at factory | Run sink water into gray tank; pull gray valve and confirm only gray drains |
+| 🔴 5 | **Roof sealant voids + cracked A/C cover** — voids documented at front/rear roof seams; cracked shrouds | Get on roof, press every bead; inspect both A/C covers for cracks and all mounting bolts |
+
+→ [Full Keystone PDI Checklist](Keystone%20RV/02_pdi_checklist.md) | [PDI Walkthrough Script](Keystone%20RV/03_pdi_walkthrough_script.md)
 
 ---
 
@@ -126,6 +149,17 @@ Documented across ORV owner communities on [iRV2](https://www.irv2.com/forums/f2
 
 ## Floor Plans at a Glance
 
+### Keystone RV
+
+| Floor Plan | Line | Layout | Dry Weight | GVWR | Slides | Sleeps | MSRP (2025–26) |
+|---|---|---|---|---|---|---|---|
+| **[Cougar WE 28BHWE](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md)** | Western Elevation | Bunkhouse + off-road pkg | ~7,290 lbs | ~9,750 lbs | 1 | 9 | ~$55,823–$57,840 |
+| **[Cougar HT 28BHS](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md)** | Cougar Half-Ton | Bunkhouse | ~7,240 lbs | ~9,500 lbs | 1 | 9 | ~$57,915 |
+| **[Cougar HT 29RLP](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md)** | Cougar Half-Ton | Rear living room | ~7,875 lbs | ~9,750 lbs | 2 | 4 | ~$55,995 |
+| **[Outback 252RD](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md)** | Outback | Rear U-dinette | ~6,925 lbs | ~9,500 lbs | 1 | 6 | ~$62,330 |
+
+> **Outback 252RD:** Standard SolarFlex 220W solar and BAL Norco 5.1 stabilization at ~$62K is the Outback's value story. No other brand in this comparison includes solar standard at this price.
+
 ### Ember RV
 
 | Floor Plan | Series | Layout | Dry Weight | GVWR | Slides | Sleeps | MSRP (2026) |
@@ -171,19 +205,19 @@ Documented across ORV owner communities on [iRV2](https://www.irv2.com/forums/f2
 
 ## Annual Maintenance Cost Comparison
 
-| | Ember RV | Grand Design Imagine | Alliance RV Delta | Outdoors RV Titanium |
-|---|---|---|---|---|
-| Sealants | ~$55 | ~$50 | ~$50 | ~$60 |
-| Roof care | ~$30 | ~$30 | N/A | N/A (fiberglass) |
-| Fiberglass care | N/A | N/A | N/A | ~$50 |
-| Slide seal conditioner | ~$20 | ~$20 | ~$20 | ~$20 |
-| Generator service | N/A | N/A | N/A | ~$40–60 |
-| Suspension grease | N/A | N/A | N/A | ~$15 |
-| Antifreeze | ~$25 | ~$25 | ~$25 | ~$25 |
-| Miscellaneous | ~$30 | ~$25 | ~$30 | ~$30 |
-| **Total recurring annual** | **~$160–193** | **~$155–180** | **~$175** | **~$235–265** |
+| | Ember RV | Grand Design Imagine | Alliance RV Delta | Keystone RV | Outdoors RV Titanium |
+|---|---|---|---|---|---|
+| Sealants | ~$55 | ~$50 | ~$50 | ~$50 | ~$60 |
+| Roof care | ~$30 | ~$30 | N/A | ~$30 | N/A (fiberglass) |
+| Fiberglass care | N/A | N/A | N/A | N/A | ~$50 |
+| Slide seal conditioner | ~$20 | ~$20 | ~$20 | ~$20 | ~$20 |
+| Generator service | N/A | N/A | N/A | N/A | ~$40–60 |
+| Suspension grease | N/A | N/A | N/A | N/A | ~$15 |
+| Antifreeze | ~$25 | ~$25 | ~$25 | ~$25–40 | ~$25 |
+| Miscellaneous | ~$30 | ~$25 | ~$30 | ~$25 | ~$30 |
+| **Total recurring annual** | **~$160–193** | **~$155–180** | **~$175** | **~$155–175** | **~$235–265** |
 
-→ [Ember Product List](Ember%20RV/05_product_list.md) | [Grand Design Product List](Grand%20Design/05_product_list.md) | [Alliance Product List](Alliance/06_product_list.md) | [Outdoors RV Product List](Outdoors%20RV/05_product_list.md)
+→ [Ember Product List](Ember%20RV/05_product_list.md) | [Grand Design Product List](Grand%20Design/05_product_list.md) | [Alliance Product List](Alliance/06_product_list.md) | [Keystone Product List](Keystone%20RV/05_product_list.md) | [Outdoors RV Product List](Outdoors%20RV/05_product_list.md)
 
 ---
 
@@ -242,6 +276,14 @@ rv_research/
 ├── Grand Design/
 │   ├── README.md                                ← Grand Design hub
 │   ├── 01_deep_dive_2970rl_2810bh_2800bh.md
+│   ├── 02_pdi_checklist.md
+│   ├── 03_pdi_walkthrough_script.md
+│   ├── 04_seasonal_maintenance_schedule.md
+│   └── 05_product_list.md
+│
+├── Keystone RV/
+│   ├── README.md                                ← Keystone RV hub
+│   ├── 01_deep_dive_28bhwe_28bhs_29rlp_252rd.md
 │   ├── 02_pdi_checklist.md
 │   ├── 03_pdi_walkthrough_script.md
 │   ├── 04_seasonal_maintenance_schedule.md

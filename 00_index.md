@@ -1,6 +1,6 @@
 # RV Research - Master Index
-*Research conducted: 2026-05-22*
-*Sources: alliancervowners.com, iRV2, RV Insider, Living Tiny With A Wolf, cartipsdaily.com, RV Travel, Bish's RV, IFish, PissedConsumer, RVingPlanet, RVUSA*
+*Research conducted: 2026-05-22 — 2026-05-23*
+*Sources: alliancervowners.com, iRV2, RV Insider, Living Tiny With A Wolf, cartipsdaily.com, RV Travel, Bish's RV, IFish, PissedConsumer, RVingPlanet, RVUSA, keystoneforums.com, RV Trader, RV Reports*
 
 ---
 
@@ -12,6 +12,7 @@
 | [Alliance/](Alliance/) | Alliance RV Delta | 281BH (bunkhouse) · 284RK (rear kitchen) |
 | [Ember RV/](Ember%20RV/) | Ember RV | Overland 221MSL · E-Series 26ETS · Touring Edition 2500RDL |
 | [Grand Design/](Grand%20Design/) | Grand Design Imagine | 2970RL (rear living) · 2810BH (bunkhouse, 2 slides) · 2800BH (bunkhouse, 1 slide) |
+| [Keystone RV/](Keystone%20RV/) | Keystone Cougar / Outback | Western Elevation 28BHWE · Half-Ton 28BHS · Half-Ton 29RLP · Outback 252RD |
 | [Outdoors RV/](Outdoors%20RV/) | Outdoors RV Titanium | BackCountry 26RPS · BackCountry 28DBS · Blackstone 280RKS · Timber Ridge 28BKS |
 
 ---
@@ -98,6 +99,42 @@
 
 ---
 
+## Keystone RV
+
+> Pendleton, Indiana — largest RV manufacturer in the world. Cougar Half-Ton line is half-ton towable; Western Elevation adds a genuine off-road package. Outback 252RD includes SolarFlex solar system and BAL Norco 5.1 five-point stabilization. Largest dealer network in the industry (service advantage and service-lottery risk). TPO rubber roof, HyperCore composite walls. Warranty claim resistance is the most-documented brand risk: photograph every seal at PDI and keep dated maintenance logs.
+
+| File | Description |
+|---|---|
+| [README.md](Keystone%20RV/README.md) | Keystone hub — all 4 floor plans, 5 factory defects, warranty details, community links |
+| [01 - Deep Dive: 28BHWE, 28BHS, 29RLP, 252RD](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) | Full floor plan breakdowns, Western Elevation package, SolarFlex/BAL Norco deep dive, brand comparison |
+| [02 - PDI Checklist](Keystone%20RV/02_pdi_checklist.md) | Pre-delivery inspection — 🔴 CRITICAL defects: water heater wiring, tire pressure, shower pan, drain routing, roof sealant |
+| [03 - PDI Walkthrough Script](Keystone%20RV/03_pdi_walkthrough_script.md) | Word-for-word dealership script — starts with water heater 30 min before arrival; model-specific scripts for 252RD and 28BHWE |
+| [04 - Seasonal Maintenance Schedule](Keystone%20RV/04_seasonal_maintenance_schedule.md) | TPO roof sealant protocol, 80-gal winterization (28BHWE), ABS suspension (28BHWE), SolarFlex annual service (252RD) |
+| [05 - Product List](Keystone%20RV/05_product_list.md) | Keystone-specific products, Dicor sealants, BAL Norco torque wrench, SolarFlex cleaning; ~$155–175/year |
+
+### Keystone RV Quick Reference
+
+**5 Documented Factory Defects (verify at PDI):**
+1. **Water heater 120V connection not made at factory** — turn on electric mode 30 min before PDI; must be fully hot, not warm
+2. **All four tires under-inflated 15+ PSI at delivery** — check cold with your own gauge before trailer moves
+3. **Shower pan without adequate sub-support** — full body weight + bounce; zero flex required
+4. **Crossed drain plumbing** — run gray tank, pull gray valve, verify black stays sealed
+5. **Roof sealant voids + cracked A/C covers** — walk entire roof, press every bead; front/rear seams are documented highest-failure points
+
+**Warranty:** 1-year base / 3-year structural — both transferable. Well-documented warranty claim resistance: "inadequate seal maintenance" exclusion is frequently invoked on water damage claims. Dated photos + maintenance log are your defense.
+
+| | Western Elevation 28BHWE | Half-Ton 28BHS | Half-Ton 29RLP | Outback 252RD |
+|---|---|---|---|---|
+| Best for | Off-road families | Budget bunkhouse | Rear living, half-ton | Solar off-grid, premium Outback |
+| Layout | Bunkhouse | Bunkhouse | Rear living | Rear dinette, front bedroom |
+| Slides | 1 | 1 | 2 | 2 |
+| Sleeps | 8–10 | 8–10 | 4–6 | 4–6 |
+| Signature | ABS suspension, 80-gal water, off-road tires | Half-ton budget | 2 slides, half-ton | SolarFlex 220, BAL Norco 5.1 |
+| Tow vehicle | 3/4-ton recommended | Half-ton (7,520 lb GVWR) | Half-ton (7,520 lb GVWR) | 3/4-ton recommended |
+| MSRP est. | ~$65K–$80K | ~$35K–$45K | ~$35K–$45K | ~$45K–$55K |
+
+---
+
 ## Alliance RV Delta
 
 > Indiana-built laminated luxury travel trailer. Half-ton towable. Feature-rich. More workmanship complaints than ORV. Strong warranty trap to know.
@@ -169,22 +206,22 @@
 
 ## Brand Comparison Cheat Sheet
 
-| | Ember RV | Grand Design Imagine | Alliance RV Delta | Outdoors RV Titanium |
-|---|---|---|---|---|
-| Build location | Goshen, Indiana | Middlebury, Indiana | Elkhart, Indiana | La Grande, Oregon |
-| Construction | Azdel walls, Tufflex PVC roof | Aluminum frame, OSB sub, TPO roof | Azdel composite, laminated | Hardwood, plywood sub/roof, welded |
-| Chassis | Aluminum frame | Norco/BAL steel | Standard travel trailer | Custom 8" cambered HD off-road |
-| Suspension | Leaf / CURT Coil (Touring) | Standard Dexter | Standard | MorRyde AllTrek CRE4000 + KYB shocks |
-| Signature feature | EmberTrack™ modular system | None | Luxury amenities | 4-season off-road |
-| Auto-leveling | Touring Edition only | No | No | Standard (Titanium) |
-| Four seasons | No | Basic | Basic (enclosed underbelly) | Genuine (triple insulation, heated tanks) |
-| Off-road | No | No | No | Yes |
-| Tow vehicle | Half-ton (Overland/E-Series) | 3/4-ton (10,195 GVWR) | Half-ton capable | 3/4-ton minimum |
-| Factory QC | Inconsistent — newer brand | Mixed — same Elkhart issues | Recurring workmanship complaints | Minor component errors; build praised |
-| Warranty | 2-yr base ✅ | 1-3-5 transferable ✅ | 1-yr, exclusion trap ⚠️ | Standard — fewer disputes |
-| Price range | ~$54K–$82K+ | ~$62K–$70K | ~$50K–$75K | ~$70K–$100K+ |
-| Annual maintenance | ~$160–193 | ~$155–180 | ~$175 | ~$235–265 |
-| Best for | Modularity, Azdel build, half-ton | Value, resale, campground use | Lightweight luxury, campground use | Off-road, four-season, backcountry |
+| | Ember RV | Grand Design Imagine | Keystone RV | Alliance RV Delta | Outdoors RV Titanium |
+|---|---|---|---|---|---|
+| Build location | Goshen, Indiana | Middlebury, Indiana | Pendleton, Indiana | Elkhart, Indiana | La Grande, Oregon |
+| Construction | Azdel walls, Tufflex PVC roof | Aluminum frame, OSB sub, TPO roof | HyperCore composite walls, TPO roof | Azdel composite, laminated | Hardwood, plywood sub/roof, welded |
+| Chassis | Aluminum frame | Norco/BAL steel | Standard steel | Standard travel trailer | Custom 8" cambered HD off-road |
+| Suspension | Leaf / CURT Coil (Touring) | Standard Dexter | Leaf spring / ABS coil-assist (28BHWE) | Standard | MorRyde AllTrek CRE4000 + KYB shocks |
+| Signature feature | EmberTrack™ modular system | None | Largest dealer network; SolarFlex (252RD) | Luxury amenities | 4-season off-road |
+| Auto-leveling | Touring Edition only | No | No | No | Standard (Titanium) |
+| Four seasons | No | Basic | No (Climate Guard on 28BHWE) | Basic (enclosed underbelly) | Genuine (triple insulation, heated tanks) |
+| Off-road | No | No | 28BHWE only | No | Yes |
+| Tow vehicle | Half-ton (Overland/E-Series) | 3/4-ton (10,195 GVWR) | Half-ton (28BHS/29RLP) / 3/4-ton (28BHWE/252RD) | Half-ton capable | 3/4-ton minimum |
+| Factory QC | Inconsistent — newer brand | Mixed — same Elkhart issues | Volume production — warranty resistance documented | Recurring workmanship complaints | Minor component errors; build praised |
+| Warranty | 2-yr base ✅ | 1-3-5 transferable ✅ | 1-yr + 3-yr structural, transferable ⚠️ | 1-yr, exclusion trap ⚠️ | Standard — fewer disputes |
+| Price range | ~$54K–$82K+ | ~$62K–$70K | ~$35K–$80K | ~$50K–$75K | ~$70K–$100K+ |
+| Annual maintenance | ~$160–193 | ~$155–180 | ~$155–175 | ~$175 | ~$235–265 |
+| Best for | Modularity, Azdel build, half-ton | Value, resale, campground use | Campground use, half-ton budget, dealer network | Lightweight luxury, campground use | Off-road, four-season, backcountry |
 
 ---
 
@@ -199,6 +236,10 @@
 | [iRV2 Grand Design Forum](https://www.irv2.com/forums/f50/) | Grand Design | Broad community GD threads |
 | [GDRVowners.com](https://www.gdrvowners.com/) | Grand Design | Secondary Grand Design owner community |
 | [RV Insider - Grand Design Imagine](https://www.rvinsider.com/Grand-Design-Imagine-RV-Reviews?make=Grand+Design&model=Imagine) | Grand Design | Aggregated owner ratings |
+| [Keystone RV Forums](https://keystoneforums.com/) | Keystone RV | Primary Keystone owner community — searchable, active |
+| [iRV2 Keystone Forum](https://www.irv2.com/forums/f172/) | Keystone RV | Broad Keystone community threads |
+| [RV Insider — Keystone Cougar](https://www.rvinsider.com/Keystone-Cougar-RV-Reviews?make=Keystone&model=Cougar) | Keystone RV | Aggregated owner ratings |
+| [Keystone RV Official](https://www.keystonerv.com/) | Keystone RV | Specs, warranty registration, brochures |
 | [Alliance RV Owners Forum](https://alliancervowners.com/forum/) | Alliance | Best Alliance owner community |
 | [iRV2 Alliance Forum](https://www.irv2.com/forums/f284/) | Alliance | Secondary Alliance community |
 | [iRV2 Outdoors RV Forum](https://www.irv2.com/forums/f282/) | Outdoors RV | Best ORV owner community |
