@@ -1,18 +1,18 @@
 # 🏕️ RV Research Hub
 
-> **Independent buyer's research for five travel trailer brands** — built from real owner forums, documented factory defects, and long-term ownership data. Not dealer content. Not manufacturer marketing. What actual owners say, sourced and cited.
+> **Independent buyer's research for six travel trailer brands** — built from real owner forums, documented factory defects, and long-term ownership data. Not dealer content. Not manufacturer marketing. What actual owners say, sourced and cited.
 
 ---
 
 ## What's in Here
 
-| | Alliance RV Delta | Ember RV | Grand Design Imagine | Keystone RV | Outdoors RV Titanium |
-|---|---|---|---|---|---|
-| **Models covered** | [281BH](Alliance/02_deep_dive_281bh_284rk.md) · [284RK](Alliance/02_deep_dive_281bh_284rk.md) | [Overland 221MSL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [E-Series 26ETS](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [Touring 2500RDL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) | [2970RL](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2810BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2800BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) | [Cougar WE 28BHWE](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) · [Cougar HT 28BHS](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) · [Cougar HT 29RLP](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) · [Outback 252RD](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) | [BackCountry 26RPS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [BackCountry 28DBS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Blackstone 280RKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Timber Ridge 28BKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) |
-| **Build location** | Elkhart, Indiana | Goshen, Indiana | Middlebury, Indiana | Goshen, Indiana | La Grande, Oregon |
-| **Tow requirement** | Half-ton capable | Half-ton (Overland/E-Series) | 3/4-ton (all plans) | Half-ton (all 4 plans) | 3/4-ton minimum |
-| **Price range** | ~$50K–$75K | ~$54K–$82K+ | ~$62K–$70K | ~$56K–$62K | ~$70K–$100K+ |
-| **Full research folder** | [→ Alliance/](Alliance/) | [→ Ember RV/](Ember%20RV/) | [→ Grand Design/](Grand%20Design/) | [→ Keystone RV/](Keystone%20RV/) | [→ Outdoors RV/](Outdoors%20RV/) |
+| | Alliance RV Delta | Ember RV | Grand Design Imagine | Keystone RV | Lance | Outdoors RV Titanium |
+|---|---|---|---|---|---|---|
+| **Models covered** | [281BH](Alliance/02_deep_dive_281bh_284rk.md) · [284RK](Alliance/02_deep_dive_281bh_284rk.md) | [Overland 221MSL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [E-Series 26ETS](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) · [Touring 2500RDL](Ember%20RV/01_deep_dive_221msl_26ets_2500rdl.md) | [2970RL](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2810BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) · [2800BH](Grand%20Design/01_deep_dive_2970rl_2810bh_2800bh.md) | [Cougar WE 28BHWE](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) · [Cougar HT 28BHS](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) · [Cougar HT 29RLP](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) · [Outback 252RD](Keystone%20RV/01_deep_dive_28bhwe_28bhs_29rlp_252rd.md) | [Evolve 2685](Lance/01_deep_dive_evolve2685_2465_2565.md) · [Lance 2465](Lance/01_deep_dive_evolve2685_2465_2565.md) · [Lance 2565](Lance/01_deep_dive_evolve2685_2465_2565.md) | [BackCountry 26RPS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [BackCountry 28DBS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Blackstone 280RKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) · [Timber Ridge 28BKS](Outdoors%20RV/01_deep_dive_all_4_floor_plans.md) |
+| **Build location** | Elkhart, Indiana | Goshen, Indiana | Middlebury, Indiana | Goshen, Indiana | Lancaster, CA / Decatur, IN | La Grande, Oregon |
+| **Tow requirement** | Half-ton capable | Half-ton (Overland/E-Series) | 3/4-ton (all plans) | Half-ton (all 4 plans) | Half-ton possible (2565); 3/4-ton (2465) | 3/4-ton minimum |
+| **Price range** | ~$50K–$75K | ~$54K–$82K+ | ~$62K–$70K | ~$56K–$62K | ~$48K–$90K+ | ~$70K–$100K+ |
+| **Full research folder** | [→ Alliance/](Alliance/) | [→ Ember RV/](Ember%20RV/) | [→ Grand Design/](Grand%20Design/) | [→ Keystone RV/](Keystone%20RV/) | [→ Lance/](Lance/) | [→ Outdoors RV/](Outdoors%20RV/) |
 
 Each brand folder contains: deep-dive floor plan breakdowns · PDI checklist with documented factory defects · word-for-word dealership walkthrough script · seasonal maintenance schedule · product list with sourcing.
 
@@ -47,6 +47,15 @@ Each brand folder contains: deep-dive floor plan breakdowns · PDI checklist wit
 - You plan to sell within 5 years and care about resale value (transferable 1-3-5 warranty)
 - You want an active, large owner community for support (MyGrandRV.com)
 - A bunkhouse that sleeps 10 at the lowest price point matters (2800BH at ~$62K)
+
+### Choose Lance if...
+- You want a clear quality step above Indiana volume production without paying Outdoors RV prices
+- The NXG Huck-bolted aluminum frame and Azdel composite walls throughout the lineup matter to you — this is not Indiana standard construction
+- You want Truma AquaGo instant hot water (unlimited hot water changes campground life) on the 2465 or 2565
+- The 2465 is the specific floor plan you want: Lance's only dual-slide model with a California King bed and a front living room + rear master suite layout
+- The 2565's rear living + front bedroom floor plan with a separating door fits your lifestyle
+- You're budget-conscious and the Evolve 2685 gives you Lance's structural advantages (Azdel, aluminum frame) at an entry price point
+- You understand that Lance's flat TPO roof requires more frequent sealant attention than a crowned or fiberglass roof — twice per season minimum
 
 ### Choose Outdoors RV Titanium if...
 - You camp off-grid, off-road, or in mountain/backcountry environments
@@ -131,6 +140,22 @@ Documented across [MyGrandRV.com](https://www.mygrandrv.com/), [iRV2](https://ww
 
 ---
 
+### ⚠️ Lance — Factory Defects to Verify at PDI
+
+Documented across [iRV2 Lance forums](https://www.irv2.com/), [Lance Owners of America](https://community.lanceowners.org/), and [PissedConsumer](https://lance-camper.pissedconsumer.com/review.html):
+
+| # | Defect | Test |
+|---|---|---|
+| 🔴 1 | **Flat roof sealant voids at delivery** — flat roof ponds water; any void is a direct intrusion path | Get on the roof; press every sealant bead at every penetration; photograph every joint before signing |
+| 🔴 2 | **A/C unit installation errors — ceiling leaks** — incorrectly installed units leak at roof penetration on new trailers | Run both A/C units 10 min; have someone watch the interior ceiling around the A/C mount for any moisture |
+| 🔴 3 | **Loose hardware, doors that don't close, split wood at delivery** — documented iRV2 reports | Open and close every door and drawer; push on every wall-mounted component before signing |
+| 🔴 4 | **Backsplash buckling behind gas stove** — wall panel delaminating from heat exposure | Press the wall behind all burners before and after running; any softness = delamination in progress |
+| 🔴 5 | **Electrical problems at delivery** — documented on new units | Test all 120V outlets with a plug tester; GFCI trip and reset; dual-load test |
+
+→ [Full Lance PDI Checklist](Lance/02_pdi_checklist.md) | [PDI Walkthrough Script](Lance/03_pdi_walkthrough_script.md)
+
+---
+
 ### ⚠️ Outdoors RV Titanium — Factory Defects to Verify at PDI
 
 Documented across ORV owner communities on [iRV2](https://www.irv2.com/forums/f282/) and [IFish](https://www.ifish.net/threads/any-outdoor-rv-trailer-owners.1645345/):
@@ -190,6 +215,17 @@ Documented across ORV owner communities on [iRV2](https://www.irv2.com/forums/f2
 
 > **284RK buyers note:** The 294RK is a foot longer but 220 lbs *lighter* and sleeps one more with an outdoor griddle. Compare both before deciding.
 
+### Lance Travel Trailers
+
+| Floor Plan | Line | Layout | Dry Weight | GVWR | Slides | Sleeps | MSRP est. |
+|---|---|---|---|---|---|---|---|
+| **[Evolve 2685](Lance/01_deep_dive_evolve2685_2465_2565.md)** | Evolve (entry) | Family/bunkhouse | ~5,200 lbs* | ~8,995 lbs* | 1 | 6–8* | ~$48K |
+| **[Lance 2465](Lance/01_deep_dive_evolve2685_2465_2565.md)** | Standard | Front living / rear master (CA King) | ~6,400 lbs | 8,900 lbs | 2 (road-side) | 5 | ~$80K–$90K |
+| **[Lance 2565](Lance/01_deep_dive_evolve2685_2465_2565.md)** | Standard | Rear living / front bedroom | ~5,750 lbs | 8,800 lbs | 1 (dinette) | 4–5 | ~$65K–$75K |
+
+> *Evolve 2685: exact specs not published on Lance's website at time of research — verify dry weight, GVWR, and floor plan details with dealer before purchase.*
+> **2465 buyers:** This is the only dual-slide travel trailer in the Lance lineup. The CA King bed and dual road-side slides create a floor plan that competes with entry fifth wheels for livability.
+
 ### Outdoors RV Titanium Series
 
 | Floor Plan | Layout | Dry Weight | Slides | Sleeps | MSRP est. |
@@ -205,19 +241,20 @@ Documented across ORV owner communities on [iRV2](https://www.irv2.com/forums/f2
 
 ## Annual Maintenance Cost Comparison
 
-| | Ember RV | Grand Design Imagine | Alliance RV Delta | Keystone RV | Outdoors RV Titanium |
-|---|---|---|---|---|---|
-| Sealants | ~$55 | ~$50 | ~$50 | ~$50 | ~$60 |
-| Roof care | ~$30 | ~$30 | N/A | ~$30 | N/A (fiberglass) |
-| Fiberglass care | N/A | N/A | N/A | N/A | ~$50 |
-| Slide seal conditioner | ~$20 | ~$20 | ~$20 | ~$20 | ~$20 |
-| Generator service | N/A | N/A | N/A | N/A | ~$40–60 |
-| Suspension grease | N/A | N/A | N/A | N/A | ~$15 |
-| Antifreeze | ~$25 | ~$25 | ~$25 | ~$25–40 | ~$25 |
-| Miscellaneous | ~$30 | ~$25 | ~$30 | ~$25 | ~$30 |
-| **Total recurring annual** | **~$160–193** | **~$155–180** | **~$175** | **~$155–175** | **~$235–265** |
+| | Ember RV | Grand Design Imagine | Alliance RV Delta | Keystone RV | Lance | Outdoors RV Titanium |
+|---|---|---|---|---|---|---|
+| Sealants | ~$55 | ~$50 | ~$50 | ~$50 | ~$60 | ~$60 |
+| Roof care | ~$30 | ~$30 | N/A | ~$30 | ~$30 | N/A (fiberglass) |
+| Fiberglass care | N/A | N/A | N/A | N/A | N/A | ~$50 |
+| Truma descaling | N/A | N/A | N/A | N/A | ~$20 | N/A |
+| Slide seal conditioner | ~$20 | ~$20 | ~$20 | ~$20 | ~$20 | ~$20 |
+| Generator service | N/A | N/A | N/A | N/A | N/A | ~$40–60 |
+| Suspension grease | N/A | N/A | N/A | N/A | N/A | ~$15 |
+| Antifreeze | ~$25 | ~$25 | ~$25 | ~$25–40 | ~$25 | ~$25 |
+| Miscellaneous | ~$30 | ~$25 | ~$30 | ~$25 | ~$30 | ~$30 |
+| **Total recurring annual** | **~$160–193** | **~$155–180** | **~$175** | **~$155–175** | **~$185–215** | **~$235–265** |
 
-→ [Ember Product List](Ember%20RV/05_product_list.md) | [Grand Design Product List](Grand%20Design/05_product_list.md) | [Alliance Product List](Alliance/06_product_list.md) | [Keystone Product List](Keystone%20RV/05_product_list.md) | [Outdoors RV Product List](Outdoors%20RV/05_product_list.md)
+→ [Ember Product List](Ember%20RV/05_product_list.md) | [Grand Design Product List](Grand%20Design/05_product_list.md) | [Alliance Product List](Alliance/06_product_list.md) | [Keystone Product List](Keystone%20RV/05_product_list.md) | [Lance Product List](Lance/05_product_list.md) | [Outdoors RV Product List](Outdoors%20RV/05_product_list.md)
 
 ---
 
@@ -284,6 +321,14 @@ rv_research/
 ├── Keystone RV/
 │   ├── README.md                                ← Keystone RV hub
 │   ├── 01_deep_dive_28bhwe_28bhs_29rlp_252rd.md
+│   ├── 02_pdi_checklist.md
+│   ├── 03_pdi_walkthrough_script.md
+│   ├── 04_seasonal_maintenance_schedule.md
+│   └── 05_product_list.md
+│
+├── Lance/
+│   ├── README.md                                ← Lance hub
+│   ├── 01_deep_dive_evolve2685_2465_2565.md
 │   ├── 02_pdi_checklist.md
 │   ├── 03_pdi_walkthrough_script.md
 │   ├── 04_seasonal_maintenance_schedule.md

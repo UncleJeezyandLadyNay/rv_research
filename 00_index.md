@@ -1,6 +1,6 @@
 # RV Research - Master Index
-*Research conducted: 2026-05-22 — 2026-05-23*
-*Sources: alliancervowners.com, iRV2, RV Insider, Living Tiny With A Wolf, cartipsdaily.com, RV Travel, Bish's RV, IFish, PissedConsumer, RVingPlanet, RVUSA, keystoneforums.com, RV Trader, RV Reports*
+*Research conducted: 2026-05-22 — 2026-05-24*
+*Sources: alliancervowners.com, iRV2, RV Insider, Living Tiny With A Wolf, cartipsdaily.com, RV Travel, Bish's RV, IFish, PissedConsumer, RVingPlanet, RVUSA, keystoneforums.com, RV Trader, RV Reports, lanceowners.org, lancecamper.com, Camper Report, truma.com*
 
 ---
 
@@ -13,6 +13,7 @@
 | [Ember RV/](Ember%20RV/) | Ember RV | Overland 221MSL · E-Series 26ETS · Touring Edition 2500RDL |
 | [Grand Design/](Grand%20Design/) | Grand Design Imagine | 2970RL (rear living) · 2810BH (bunkhouse, 2 slides) · 2800BH (bunkhouse, 1 slide) |
 | [Keystone RV/](Keystone%20RV/) | Keystone Cougar / Outback | Western Elevation 28BHWE · Half-Ton 28BHS · Half-Ton 29RLP · Outback 252RD |
+| [Lance/](Lance/) | Lance Travel Trailers / Evolve | Evolve 2685 · Lance 2465 · Lance 2565 |
 | [Outdoors RV/](Outdoors%20RV/) | Outdoors RV Titanium | BackCountry 26RPS · BackCountry 28DBS · Blackstone 280RKS · Timber Ridge 28BKS |
 
 ---
@@ -135,6 +136,47 @@
 
 ---
 
+## Lance Travel Trailers
+
+> Lancaster, California origin (1965); production now also in Decatur, Indiana (REV Group acquisition). NXG Huck-bolted aluminum frame and Azdel composite walls across the full lineup — a genuine construction tier above Indiana volume production. Flat TPO roof is the documented design trade-off: ponds water rather than shedding it; sealant inspection is twice-per-season mandatory. Truma AquaGo instant hot water standard on most models (requires annual descaling). Two product lines: Standard Lance (Truma, full-body paint, torsion axles) and Evolve (entry-level, laminated fiberglass, tank water heater). 2-year warranty (Year 1 full, Year 2 structural). Warranty claim friction documented.
+
+| File | Description |
+|---|---|
+| [README.md](Lance/README.md) | Lance hub — all 3 floor plans, flat roof design explained, 5 factory defects, warranty, community links |
+| [01 - Deep Dive: Evolve 2685, Lance 2465, Lance 2565](Lance/01_deep_dive_evolve2685_2465_2565.md) | Full floor plan breakdowns, NXG frame and Azdel deep dive, flat roof analysis, Truma AquaGo explained, brand comparison |
+| [02 - PDI Checklist](Lance/02_pdi_checklist.md) | Pre-delivery inspection — 🔴 CRITICAL: roof sealant, A/C installation, hardware quality, backsplash, electrical |
+| [03 - PDI Walkthrough Script](Lance/03_pdi_walkthrough_script.md) | Word-for-word dealership script — starts with roof walk; Truma hot water verification; Evolve 2685 GVWR confirmation |
+| [04 - Seasonal Maintenance Schedule](Lance/04_seasonal_maintenance_schedule.md) | Flat roof twice-per-season sealant protocol, Truma AquaGo descaling, Truma winterization procedure |
+| [05 - Product List](Lance/05_product_list.md) | Lance-specific products, Truma descaling supplies, TDS meter; ~$185–215/year (2465/2565); ~$175–185/year (Evolve 2685) |
+
+### Lance Quick Reference
+
+**5 Documented Factory Defects (verify at PDI):**
+1. **Flat roof sealant voids at delivery** — flat roof ponds water; any void is a direct water intrusion path; walk the full roof and press every bead
+2. **A/C unit installation errors** — incorrectly installed units that leak through the ceiling; run both A/C units and watch for moisture inside
+3. **Loose hardware, doors that won't close, split wood at delivery** — iRV2-documented quality control issues; test every door and drawer
+4. **Backsplash buckling behind gas stove** — wall panel delaminating from heat; press the panel before and after running burners
+5. **Electrical problems at delivery** — test all outlets with plug tester; GFCI trip and reset
+
+**Warranty:** 2-year total — Year 1 full warranty on most components; Year 2 structural only (walls, floors, chassis). Component appliances covered by manufacturer warranties, not Lance.
+
+| | Evolve 2685 | Lance 2465 | Lance 2565 |
+|---|---|---|---|
+| Line | Evolve (entry) | Standard | Standard |
+| Best for | Lance quality at entry price | Couples/premium, only dual-slide | Rear living, lower hitch weight |
+| Layout | Family/bunkhouse | Front living / rear CA King master | Rear living / front bedroom |
+| Slides | 1 | 2 (dual road-side) | 1 (dinette) |
+| Dry weight | ~5,200 lbs* | ~6,400 lbs | ~5,750 lbs |
+| Hitch weight | ~600 lbs* | ~905 lbs | ~625 lbs |
+| GVWR | ~8,995 lbs* | 8,900 lbs | 8,800 lbs |
+| Water heater | Tank-style | Truma AquaGo | Truma AquaGo |
+| Tow vehicle | Verify payload | 3/4-ton typical | Half-ton possible (verify payload) |
+| MSRP est. | ~$48K | ~$80K–$90K | ~$65K–$75K |
+
+*Evolve 2685: specs not published by Lance at time of research — verify all with dealer*
+
+---
+
 ## Alliance RV Delta
 
 > Indiana-built laminated luxury travel trailer. Half-ton towable. Feature-rich. More workmanship complaints than ORV. Strong warranty trap to know.
@@ -206,22 +248,22 @@
 
 ## Brand Comparison Cheat Sheet
 
-| | Ember RV | Grand Design Imagine | Keystone RV | Alliance RV Delta | Outdoors RV Titanium |
-|---|---|---|---|---|---|
-| Build location | Goshen, Indiana | Middlebury, Indiana | Pendleton, Indiana | Elkhart, Indiana | La Grande, Oregon |
-| Construction | Azdel walls, Tufflex PVC roof | Aluminum frame, OSB sub, TPO roof | HyperCore composite walls, TPO roof | Azdel composite, laminated | Hardwood, plywood sub/roof, welded |
-| Chassis | Aluminum frame | Norco/BAL steel | Standard steel | Standard travel trailer | Custom 8" cambered HD off-road |
-| Suspension | Leaf / CURT Coil (Touring) | Standard Dexter | Leaf spring / ABS coil-assist (28BHWE) | Standard | MorRyde AllTrek CRE4000 + KYB shocks |
-| Signature feature | EmberTrack™ modular system | None | Largest dealer network; SolarFlex (252RD) | Luxury amenities | 4-season off-road |
-| Auto-leveling | Touring Edition only | No | No | No | Standard (Titanium) |
-| Four seasons | No | Basic | No (Climate Guard on 28BHWE) | Basic (enclosed underbelly) | Genuine (triple insulation, heated tanks) |
-| Off-road | No | No | 28BHWE only | No | Yes |
-| Tow vehicle | Half-ton (Overland/E-Series) | 3/4-ton (10,195 GVWR) | Half-ton (28BHS/29RLP) / 3/4-ton (28BHWE/252RD) | Half-ton capable | 3/4-ton minimum |
-| Factory QC | Inconsistent — newer brand | Mixed — same Elkhart issues | Volume production — warranty resistance documented | Recurring workmanship complaints | Minor component errors; build praised |
-| Warranty | 2-yr base ✅ | 1-3-5 transferable ✅ | 1-yr + 3-yr structural, transferable ⚠️ | 1-yr, exclusion trap ⚠️ | Standard — fewer disputes |
-| Price range | ~$54K–$82K+ | ~$62K–$70K | ~$35K–$80K | ~$50K–$75K | ~$70K–$100K+ |
-| Annual maintenance | ~$160–193 | ~$155–180 | ~$155–175 | ~$175 | ~$235–265 |
-| Best for | Modularity, Azdel build, half-ton | Value, resale, campground use | Campground use, half-ton budget, dealer network | Lightweight luxury, campground use | Off-road, four-season, backcountry |
+| | Ember RV | Grand Design Imagine | Keystone RV | Lance | Alliance RV Delta | Outdoors RV Titanium |
+|---|---|---|---|---|---|---|
+| Build location | Goshen, Indiana | Middlebury, Indiana | Pendleton, Indiana | Lancaster, CA / Decatur, IN | Elkhart, Indiana | La Grande, Oregon |
+| Construction | Azdel walls, Tufflex PVC roof | Aluminum frame, OSB sub, TPO roof | HyperCore composite walls, TPO roof | NXG Huck-bolt frame, Azdel walls, flat TPO roof | Azdel composite, laminated | Hardwood, plywood sub/roof, welded |
+| Chassis | Aluminum frame | Norco/BAL steel | Standard steel | NXG Huck-bolted aluminum | Standard travel trailer | Custom 8" cambered HD off-road |
+| Suspension | Leaf / CURT Coil (Touring) | Standard Dexter | Leaf spring / ABS coil-assist (28BHWE) | Dexter torsion axles (standard line) | Standard | MorRyde AllTrek CRE4000 + KYB shocks |
+| Signature feature | EmberTrack™ modular system | None | Largest dealer network; SolarFlex (252RD) | NXG frame; Truma AquaGo; only dual-slide (2465) | Luxury amenities | 4-season off-road |
+| Auto-leveling | Touring Edition only | No | No | No | No | Standard (Titanium) |
+| Four seasons | No | Basic | No (Climate Guard on 28BHWE) | No | Basic (enclosed underbelly) | Genuine (triple insulation, heated tanks) |
+| Off-road | No | No | 28BHWE only | No | No | Yes |
+| Tow vehicle | Half-ton (Overland/E-Series) | 3/4-ton (10,195 GVWR) | Half-ton (28BHS/29RLP) / 3/4-ton (28BHWE/252RD) | Half-ton possible (2565); 3/4-ton (2465) | Half-ton capable | 3/4-ton minimum |
+| Factory QC | Inconsistent — newer brand | Mixed — same Elkhart issues | Volume production — warranty resistance documented | Above Indiana avg; flat roof + A/C install issues documented | Recurring workmanship complaints | Minor component errors; build praised |
+| Warranty | 2-yr base ✅ | 1-3-5 transferable ✅ | 1-yr + 3-yr structural, transferable ⚠️ | 2-yr (Y1 full, Y2 structural) ⚠️ | 1-yr, exclusion trap ⚠️ | Standard — fewer disputes |
+| Price range | ~$54K–$82K+ | ~$62K–$70K | ~$35K–$80K | ~$48K–$90K+ | ~$50K–$75K | ~$70K–$100K+ |
+| Annual maintenance | ~$160–193 | ~$155–180 | ~$155–175 | ~$185–215 | ~$175 | ~$235–265 |
+| Best for | Modularity, Azdel build, half-ton | Value, resale, campground use | Campground use, half-ton budget, dealer network | Build quality above Indiana, Truma hot water, CA King (2465) | Lightweight luxury, campground use | Off-road, four-season, backcountry |
 
 ---
 
@@ -236,6 +278,11 @@
 | [iRV2 Grand Design Forum](https://www.irv2.com/forums/f50/) | Grand Design | Broad community GD threads |
 | [GDRVowners.com](https://www.gdrvowners.com/) | Grand Design | Secondary Grand Design owner community |
 | [RV Insider - Grand Design Imagine](https://www.rvinsider.com/Grand-Design-Imagine-RV-Reviews?make=Grand+Design&model=Imagine) | Grand Design | Aggregated owner ratings |
+| [Lance Owners of America Forum](https://community.lanceowners.org/) | Lance | Primary Lance owner community — technical resources, rally archives, boondocking |
+| [Lance Owners of America (main site)](https://www.lanceowners.org/) | Lance | LOA organization site, dealer links, newsletter |
+| [iRV2 Lance Forum](https://www.irv2.com/forums/) | Lance | Broad Lance community threads |
+| [RV Insider — Lance Travel Trailers](https://www.rvinsider.com/Lance-Travel-Trailers-RV-Reviews?type=Travel+Trailers&make=Lance) | Lance | Aggregated owner ratings |
+| [Lance Official](https://www.lancecamper.com/) | Lance | Specs, warranty registration, Evolve line, brochures |
 | [Keystone RV Forums](https://keystoneforums.com/) | Keystone RV | Primary Keystone owner community — searchable, active |
 | [iRV2 Keystone Forum](https://www.irv2.com/forums/f172/) | Keystone RV | Broad Keystone community threads |
 | [RV Insider — Keystone Cougar](https://www.rvinsider.com/Keystone-Cougar-RV-Reviews?make=Keystone&model=Cougar) | Keystone RV | Aggregated owner ratings |
